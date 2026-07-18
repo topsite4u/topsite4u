@@ -8,8 +8,7 @@
       <stop offset="100%" style="stop-color:#7000ff;stop-opacity:1" />
     </linearGradient>
   </defs>
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="'Playfair Display', 'Georgia', serif" font-size="58" font-weight="700" fill="url(#grad1)" letter-spacing="2">TopSite4U</text>
-  <text x="50%" y="85%" dominant-baseline="middle" text-anchor="middle" font-family="'Montserrat', 'Arial', sans-serif" font-size="14" font-weight="500" fill="#8b949e" letter-spacing="4">PREMIUM WEB DEVELOPMENT</text>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="'Playfair Display', 'Georgia', serif" font-size="58" font-weight="700" fill="url(#grad1)" letter-spacing="2">
 </svg>
 
 <br>
